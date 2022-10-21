@@ -21,12 +21,11 @@ def word_function():
     player_answer = 2
     word = random.choice(word_ukr)
     new_word = '▮' * len(word)
-
     while player_answer:
         print(f'Є слово {new_word}, {author}. Вгадай.')
         massage_words = input(">>> ")
         massage_words = massage_words.lower()
-        #print(word)
+        #  print(word)
         if massage_words == word:
             player_answer = 0
         else:
