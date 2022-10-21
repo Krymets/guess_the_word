@@ -8,8 +8,8 @@
 - After submitting a guess, the letters are revealed if the player guessed right.
 
 <br/>
+
 ---
-<br/>
 
 ### Гра *Вгадай слово*
 #### Скрипт-гра у вгадування слів, за принципом популярного телешоу.
