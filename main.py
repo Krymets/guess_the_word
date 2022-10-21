@@ -64,3 +64,6 @@ def word_function():
 
 
 word_function()
+
+
+#  Developed by https://github.com/Krimets
